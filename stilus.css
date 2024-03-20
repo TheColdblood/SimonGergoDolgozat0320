@@ -1,0 +1,15 @@
+.autok:hover{
+    background-color: antiquewhite;
+}
+
+.tartalom img{
+    width: 500px;
+    border: solid black 1px;
+}
+
+
+.tartalom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
